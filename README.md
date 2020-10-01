@@ -16,7 +16,7 @@ from tkinter import messagebox
 ## Usage
 
 ```bash
-python3 mytask.py
+python3 game.py
 ```
 
 ## Contributing
